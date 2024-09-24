@@ -1,9 +1,21 @@
 ## Hi there 👋
 
-<!--
-**EnesBurakPolat/EnesBurakPolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there! 👋 I'm Enes Burak Polat
 
-Here are some ideas to get you started:
+🚀 **Computer Engineer** with a passion for developing innovative, practical tools and ideas that make a real impact.  
+💡 Continuously exploring **AI**, **machine learning**, and **data science** to shape the future of technology.  
+🌍 Focused on creating scalable and efficient systems, always aiming to solve real-world problems with practical, high-quality solutions.
+
+### 🚀 Skills & Tools:
+- **Languages:** C++, Python, JavaScript
+- **Technologies:** TensorFlow, PyTorch, React
+- **Interests:** Machine Learning, AI, Cloud Computing
+
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/enes-burak-polat)
+
+![Enes Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
