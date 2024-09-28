@@ -13,9 +13,9 @@
 
 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/enes-burak-polat)
 
-![Enes Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Enes Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnesBurakPolat&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnesBurakPolat&layout=compact&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
