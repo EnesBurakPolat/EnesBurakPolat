@@ -15,7 +15,6 @@
 
 ![Enes Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnesBurakPolat&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnesBurakPolat&layout=compact&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
